@@ -4,6 +4,7 @@ Landing page built using HTML, CSS and jQuery
 ## Technologies
 * HTML
 * CSS
+* Resposive Web Design
 * jQuery
 * Waypoints
 
